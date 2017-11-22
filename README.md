@@ -11,6 +11,7 @@ Here is personal my personal dev documentation
 
 ##JAVASCRIPT COOL STUFF
 - Open source book : http://eloquentjavascript.net/Eloquent_JavaScript.pdf
+- Good advanced article : http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/
 - Coding Games : https://www.codingame.com/ide/93314704e09cc5ce84b99fea4f17ed5b771ac5d
 - Recruitment cards : http://flashcardsjs.com/
 
