@@ -9,8 +9,9 @@ Here is personal my personal dev documentation
 - Front-End checklit : https://github.com/thedaviddias/Front-End-Checklist
 
 
-##JAVASCRIPT GAMES
-- Open source bbok : http://eloquentjavascript.net/Eloquent_JavaScript.pdf
-- https://www.codingame.com/ide/93314704e09cc5ce84b99fea4f17ed5b771ac5d
+##JAVASCRIPT COOL STUFF
+- Open source book : http://eloquentjavascript.net/Eloquent_JavaScript.pdf
+- Coding Games : https://www.codingame.com/ide/93314704e09cc5ce84b99fea4f17ed5b771ac5d
+- Recruitment cards : http://flashcardsjs.com/
 
 
