@@ -15,4 +15,8 @@ Here is personal my personal dev documentation
 - Coding Games : https://www.codingame.com/ide/93314704e09cc5ce84b99fea4f17ed5b771ac5d
 - Recruitment cards : http://flashcardsjs.com/
 
+##WEBPACK
 
+- How to webpack : https://github.com/petehunt/webpack-howto
+- Offficial tutorial : http://webpack.github.io/docs/tutorials/getting-started/
+- Introduction : http://okonet.ru/viennajs-webpack-introduction/
